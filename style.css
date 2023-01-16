@@ -28,7 +28,7 @@ p{
     width: 700px;
 }
 .card-img{
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(./images/image-product-desktop.jpg);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     background-position: center;
@@ -88,7 +88,7 @@ button{
         height: 750px;
     }
     .card-img{
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(./images/image-product-mobile.jpg);
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
         border-bottom-left-radius: 0px;
@@ -130,7 +130,7 @@ button{
         height: 700px;
     }
     .card-img{
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(./images/image-product-mobile.jpg);
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
         border-bottom-left-radius: 0px;
@@ -172,7 +172,7 @@ button{
         height: 600px;
     }
     .card-img{
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(./images/image-product-mobile.jpg);
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
         background-position: center;
